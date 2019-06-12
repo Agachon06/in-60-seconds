@@ -1,11 +1,11 @@
 # Let's Get Started
 Try to do something
 
-@startuml
-@startlatex
-\sum_{i=0}^{n-1} (a_i + b_i^2)
-@endlatex
-@enduml
+
+`\[
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\]`
 ---
 
 ## Add Some Slide Candy
