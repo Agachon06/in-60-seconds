@@ -1,5 +1,11 @@
 # Let's Get Started
 Try to do something
+
+@startuml
+@startlatex
+\sum_{i=0}^{n-1} (a_i + b_i^2)
+@endlatex
+@enduml
 ---
 
 ## Add Some Slide Candy
